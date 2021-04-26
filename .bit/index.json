@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/card"
+      },
+      "isSymlink": true,
+      "hash": "ed61e861cd457fc2f8bbfe214c116b7a575b28bb"
+    },
+    {
+      "id": {
+        "scope": "nsebhastian.bit-share-demo",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "6cbf9bccf61e7c97ff19d8bd9c7d151844ee9999"
+    },
+    {
+      "id": {
+        "scope": "nsebhastian.bit-share-demo",
+        "name": "ui/card"
+      },
+      "isSymlink": false,
+      "hash": "66bc2ee8228d967375e64afbfe1d9f06614f1a7f"
+    }
+  ],
+  "lanes": []
+}

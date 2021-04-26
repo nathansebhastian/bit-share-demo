@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "nsebhastian.bit-share-demo",
+      "name": "ui/button"
+    },
+    "head": "84db8b43c0000996bc4c1c6b97f3848324a9cf1c"
+  },
+  {
+    "id": {
+      "scope": "nsebhastian.bit-share-demo",
+      "name": "ui/card"
+    },
+    "head": "b93f98c83305b942fe77e946be0348217de05328"
+  }
+]
